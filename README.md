@@ -9,7 +9,6 @@ This project contains hands-on learning materials covering fundamental concepts 
 ## Project Structure
 
 - **Notebooks** (01.ipynb - 017.ipynb): 17 sequential Jupyter notebooks covering various DL/PyTorch topics
-- **data/**: Dataset storage directory (MNIST)
 - **my_model.pth**: Pre-trained model weights
 - **requirements.in**: Project dependencies
 
